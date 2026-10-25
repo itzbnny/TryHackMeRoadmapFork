@@ -60,7 +60,6 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 - [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - 🔒 ~~[TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)~~ ➡️ **[OverTheWire: Bandit (Levels 0–34)](https://overthewire.org/wargames/bandit/)** *(100% Free gamified CLI terminal mastery)*
-- 🔒 ~~[TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)~~ ➡️ **[OverTheWire: Bandit (Advanced Levels)](https://overthewire.org/wargames/bandit/)** *(Processes, permissions, and cron jobs)*
 
 ### Windows Fundamentals
 - [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xrx)
