@@ -1,6 +1,6 @@
 # 🚀 Free Gamified Cybersecurity Roadmap (Zero to Expert)
 
-A fully reworked, 100% free and gamified fork of the original [TryHackMe Roadmap](https://github.com/uttambodara/TryHackMeRoadmap). This repository retains all working, free TryHackMe rooms while seamlessly replacing every paywalled, broken, or restricted module with top-tier, interactive wargames, enterprise-grade academies, and local sandbox labs.
+A fully reworked, 100% free and gamified fork of the original [TryHackMe Roadmap](https://github.com/uttambodara/TryHackMeRoadmap). This repository retains all working, free TryHackMe rooms while seamlessly replacing every paywalled, broken, or restricted module with top-tier, interactive wargames, enterprise-grade academies, and local sandbox labs. Along the way, structured **Job-Aligned Certification Checkpoints and Study Guides** mark your path from beginner to industry hire.
 
 ---
 
@@ -77,6 +77,15 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 - [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 - [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech)
+
+---
+> 🏆 **JOB CERTIFICATION CHECKPOINT 1: Foundations**
+> - **CompTIA Network+ & Security+**
+>   - *Recommended Study Guides & Resources:* 
+>     - **Professor Messer's Free YouTube Training Courses** (Complete structured video series for Net+ and Sec+).
+>     - **CompTIA Official Study Guides (OSG)** or Mike Chapple's Sybex study guides.
+>     - **Jason Dion Practice Exams** (Udemy) for simulation practice.
+---
 
 ### Recon
 - [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
@@ -171,6 +180,15 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 - 🌟 **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** *(Free enterprise-grade interactive web hacking labs replacing locked THM paths)*
 
+---
+> 🏆 **JOB CERTIFICATION CHECKPOINT 2: Junior Pentester & Web Application Focus**
+> - **CompTIA PenTest+ & BSCP (PortSwigger Certified Web Security Practitioner)**
+>   - *Recommended Study Guides & Resources:*
+>     - **PortSwigger Web Security Academy Material** (100% free theory and labs directly preparing you for BSCP).
+>     - **CompTIA PenTest+ Certification Study Guide (Exam PT0-002/003)** by Glen Clarke.
+>     - **TryHackMe Junior Penetration Tester Path** (using free standalone room alternatives).
+---
+
 ### Android
 - [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
@@ -236,6 +254,14 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 - [TryHackMe | RazorBlack](https://tryhackme.com/room/razorblack)
 - 🌟 **[Local 3-VM Home Lab (VirtualBox DC + Workstation + Kali)](https://www.virtualbox.org/)** *(Free self-hosted Active Directory multi-box environment bypassing locked corporate cloud labs)*
+
+---
+> 🏆 **JOB CERTIFICATION CHECKPOINT 3: Blue Team & Practical Red Teaming**
+> - **CompTIA CySA+ & PNPT (Practical Network Penetration Tester)**
+>   - *Recommended Study Guides & Resources:*
+>     - **TCM Security Practical Ethical Hacking (PEH) & Lateral Movement/AD Courses** (The foundational blueprint for passing the hands-on PNPT exam).
+>     - **CyberDefenders.org Labs** (Hands-on SIEM, PCAP analysis, and forensic logs preparation for CySA+).
+---
 
 ### PCAP Analysis
 - [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
@@ -386,6 +412,14 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | CyberCrafted](https://tryhackme.com/room/cybercrafted)
 - [TryHackMe | Road](https://tryhackme.com/room/road)
 
+---
+> 🏆 **JOB CERTIFICATION CHECKPOINT 4: Advanced Offensive Security**
+> - **OSCP (Offensive Security Certified Professional)**
+>   - *Recommended Study Guides & Resources:*
+>     - **OffSec PEN-200 Official Courseware & Lab Environment** 
+>     - **TJNull's HackTheBox & ProLabs Machine List** (Curated mapping for OSCP-style box grinding).
+---
+
 ### Hard CTF
 - [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 - [TryHackMe | Spring](https://tryhackme.com/room/spring)
@@ -473,3 +507,12 @@ Every module that triggers a subscription wall or fails on TryHackMe has been ma
 - [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
 - [TryHackMe | Learn and win prizes](https://tryhackme.com/room/learnandwinprizes)
 - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/learnandwinprizes2)
+
+---
+> 🏆 **JOB CERTIFICATION CHECKPOINT 5: Expert & Leadership Tier**
+> - **CompTIA SecurityX (CASP+) / CISSP & OSEP**
+>   - *Recommended Study Guides & Resources:*
+>     - **Destination Certification (Masterclass & YouTube Free Series)** for CISSP.
+>     - **Official ISC2 CISSP CBK Study Guide**.
+>     - **OffSec PEN-300 (Evasion Techniques and Breaching Defenses)** for OSEP preparation.
+---
